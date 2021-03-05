@@ -67,6 +67,7 @@ ro.build.selinux=1
 ro.storaged.event.interval=99999
 
 # Xiaomi Parts
+touchboost.support=1
 cpuboost.support=1
 gpuboost.support=1
 tcp.support=1
